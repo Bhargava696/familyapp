@@ -1,0 +1,28 @@
+body{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Staatliches', cursive;
+}
+.gioj{
+    border-radius: 30%;
+    border: 6px dashed rgb(0, 255, 0);
+    width:40%;
+}
+.tronet{
+    background-image:linear-gradient(aqua,#14ff80);
+    border: 6px solid transparent;
+    width:60%;
+    border-radius:40px;
+    padding:20px;
+}
+.monet{
+    background-color: rgb(225, 0, 255);
+    width:40%;
+}
+.vonet{
+    background-image:linear-gradient(rgb(38, 0, 255),#ff14e0);
+    width:20%;
+    border-radius:200px;
+    color:white;
+}
